@@ -1,4 +1,4 @@
-#CODECHECK certificate 2025-003
+# CODECHECK certificate 2025-003
 
 Repository for CODECHECK certificate 2025-003.
 
